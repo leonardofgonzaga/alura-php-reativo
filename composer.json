@@ -1,0 +1,15 @@
+{
+    "name": "leonardo/php-reativo",
+    "autoload": {
+        "psr-4": {
+            "Leonardo\\PhpReativo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leoanardo Gonzaga",
+            "email": "leonardo.fg95@gmail.com"
+        }
+    ],
+    "require": {}
+}
