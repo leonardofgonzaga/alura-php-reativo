@@ -11,5 +11,8 @@
             "email": "leonardo.fg95@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "react/event-loop": "1.1.1",
+        "react/stream": "1.1.1"
+    }
 }
